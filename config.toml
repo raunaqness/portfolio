@@ -2,3 +2,4 @@ baseURL = 'https://raunaqness.com/'
 languageCode = 'en-us'
 title = 'Raunaq | Person Website'
 theme = 'PaperMod'
+publishDir = "docs"
