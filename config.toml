@@ -1,4 +1,4 @@
-baseURL = 'https://raunaqness.com/'
+baseURL = 'https://raunaqness.github.io/portfolio/'
 languageCode = 'en-us'
 title = 'Raunaq | Person Website'
 theme = 'PaperMod'
