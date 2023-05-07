@@ -1,5 +1,0 @@
-baseURL = 'https://raunaqness.github.io/portfolio/'
-languageCode = 'en-us'
-title = 'Raunaq | Person Website'
-theme = 'PaperMod'
-publishDir = "docs"
